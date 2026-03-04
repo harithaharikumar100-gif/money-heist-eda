@@ -96,7 +96,7 @@ The dataset contains the following columns:
 ```
 money-heist-eda/
 │
-├── money_heist.xls
+├── money_heist.csv
 ├── MoneyHeist_EDA.ipynb
 └── README.md
 ```
